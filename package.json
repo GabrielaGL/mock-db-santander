@@ -1,0 +1,22 @@
+{
+  "name": "mock-db-santander",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielaGL/mock-db-santander.git"
+  },
+  "author": "Gabriela Gomez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielaGL/mock-db-santander/issues"
+  },
+  "homepage": "https://github.com/GabrielaGL/mock-db-santander#readme",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
