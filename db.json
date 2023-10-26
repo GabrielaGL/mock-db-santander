@@ -1,0 +1,222 @@
+{
+  "personal_info": [
+    {
+      "id": "e3TCoyFfAUWjoHkydDfq1qIytEh2",
+      "full_name": "Ana Ramírez",
+      "email": "ana_ra@santander.com.mx",
+      "birthday": "08/04/1990",
+      "phone": "+52 123 665 0035",
+      "course_records_id": "e3TCoyFfAUWjoHkydDfq1qIytEh2"
+    },
+    {
+      "id": "aTxANQ8ijJamsSSVlT6PhSIOy6z2",
+      "full_name": "María García",
+      "email": "maria_ga@santander.com.mx",
+      "birthday": "13/08/1984",
+      "phone": "+52 816 172 9099",
+      "course_records_id": "aTxANQ8ijJamsSSVlT6PhSIOy6z2"
+    },
+    {
+      "id": "VfBljlatTqZJjiHdFISyRa7bdtp1",
+      "full_name": "Juan Rodríguez",
+      "email": "juan_ro@santander.com.mx",
+      "birthday": "05/05/1989",
+      "phone": "+52 491 144 0465",
+      "course_records_id": "VfBljlatTqZJjiHdFISyRa7bdtp1"
+    },
+    {
+      "id": "Qhxjg514xsWFI6Tm9a8Hqllqxvq1",
+      "full_name": "Alejandro López",
+      "email": "alejandro_lo@santander.com.mx",
+      "birthday": "01/02/1992",
+      "phone": "+52 176 110 6427",
+      "course_records_id": "Qhxjg514xsWFI6Tm9a8Hqllqxvq1"
+    }
+  ],
+  "course_records": [
+    {
+      "id": "e3TCoyFfAUWjoHkydDfq1qIytEh2",
+      "total": 10,
+      "approved": 1,
+      "in_process": 9
+    },
+    {
+      "id": "aTxANQ8ijJamsSSVlT6PhSIOy6z2",
+      "total": 13,
+      "approved": 8,
+      "in_process": 5
+    },
+    {
+      "id": "VfBljlatTqZJjiHdFISyRa7bdtp1",
+      "total": 13,
+      "approved": 5,
+      "in_process": 8
+    },
+    {
+      "id": "Qhxjg514xsWFI6Tm9a8Hqllqxvq1",
+      "total": 10,
+      "approved": 9,
+      "in_process": 1
+    }
+  ],
+  "labor_data": [
+    {
+      "id": "e3TCoyFfAUWjoHkydDfq1qIytEh2",
+      "job_title": "Desarrollador web",
+      "department": "Desarrollo web",
+      "time_position": "21/04/2021",
+      "work_shift": "Tiempo completo"
+    },
+    {
+      "id": "aTxANQ8ijJamsSSVlT6PhSIOy6z2",
+      "job_title": "Project Manager",
+      "department": "Marketing",
+      "time_position": "07/07/2005",
+      "work_shift": "Tiempo completo"
+    },
+    {
+      "id": "VfBljlatTqZJjiHdFISyRa7bdtp1",
+      "job_title": "Responsable de selección",
+      "department": "Recursos Humanos",
+      "time_position": "22/10/2021",
+      "work_shift": "Tiempo completo"
+    },
+    {
+      "id": "Qhxjg514xsWFI6Tm9a8Hqllqxvq1",
+      "job_title": "Asistente de marketing",
+      "department": "Marketing",
+      "time_position": "24/05/2020",
+      "work_shift": "Medio tiempo"
+    }
+  ],
+  "time_off": [
+    {
+      "id": "e3TCoyFfAUWjoHkydDfq1qIytEh2",
+      "holidays": {
+        "pending": [
+          ["2023/11/23", "2023/11/28"],
+          ["2023/12/13", "2023/12/14"]
+        ],
+        "success": ["2023/11/07", "2023/11/08"],
+        "prev_year_days": 5,
+        "current_year_days": 15,
+        "used_days": 9,
+        "total_days": 20,
+        "rejected": [[]]
+      },
+      "absences": {
+        "dates": ["2023/12/21"],
+        "total_days": 2,
+        "used_days": 1
+      },
+      "permissions": {
+        "special_days": [
+          ["2023/11/30", "2023/11/30"],
+          ["2023/12/28", "2023/12/28"]
+        ],
+        "total_days": 2
+      }
+    },
+    {
+      "id": "aTxANQ8ijJamsSSVlT6PhSIOy6z2",
+      "holidays": {
+        "pending": [["2023/11/20", "2023/11/24"]],
+        "success": ["2023/12/28", "2023/12/29"],
+        "prev_year_days": 3,
+        "current_year_days": 26,
+        "used_days": 7,
+        "total_days": 29,
+        "rejected": [[]]
+      },
+      "absences": {
+        "dates": [],
+        "total_days": 2,
+        "used_days": 0
+      },
+      "permissions": {
+        "special_days": [["2023/05/15", "2023/05/17"]],
+        "total_days": 3
+      }
+    },
+    {
+      "id": "VfBljlatTqZJjiHdFISyRa7bdtp1",
+      "holidays": {
+        "pending": [["2023/11/21", "2023/11/28"]],
+        "success": ["2023/09/28", "2023/09/29"],
+        "prev_year_days": 2,
+        "current_year_days": 15,
+        "used_days": 8,
+        "total_days": 17,
+        "rejected": [[]]
+      },
+      "absences": {
+        "dates": [["2023/05/12"]],
+        "total_days": 2,
+        "used_days": 1
+      },
+      "permissions": {
+        "special_days": [["2023/07/12", "2023/07/14"]],
+        "total_days": 3
+      }
+    },
+    {
+      "id": "Qhxjg514xsWFI6Tm9a8Hqllqxvq1",
+      "holidays": {
+        "pending": [["2023/12/15", "2023/12/21"]],
+        "success": ["2023/04/12", "2023/04/18"],
+        "prev_year_days": 8,
+        "current_year_days": 16,
+        "used_days": 10,
+        "total_days": 24,
+        "rejected": [[]]
+      },
+      "absences": {
+        "dates": ["2023/10/23"],
+        "total_days": 2,
+        "used_days": 1
+      },
+      "permissions": {
+        "special_days": [["2023/10/11", "2023/10/12"]],
+        "total_days": 2
+      }
+    }
+  ],
+  "salary_compensation": [
+    {
+      "id": "e3TCoyFfAUWjoHkydDfq1qIytEh2",
+      "base_salary": "$25512.49",
+      "bonus": "$6863.36",
+      "vacation_bonus": "$5492.81",
+      "punctuality_bonus": "$7601.45",
+      "attendance_bonus": "$6116.01",
+      "grocery_vouchers": "$15207.07"
+    },
+    {
+      "id": "aTxANQ8ijJamsSSVlT6PhSIOy6z2",
+      "base_salary": "$31529.28",
+      "bonus": "$6985.66",
+      "vacation_bonus": "$8331.14",
+      "punctuality_bonus": "$17917.73",
+      "attendance_bonus": "$16875.89",
+      "grocery_vouchers": "$9967.14"
+    },
+    {
+      "id": "VfBljlatTqZJjiHdFISyRa7bdtp1",
+      "base_salary": "$30229.50",
+      "bonus": "$5662.86",
+      "vacation_bonus": "$10028.04",
+      "punctuality_bonus": "$14163.26",
+      "attendance_bonus": "$16769.75",
+      "grocery_vouchers": "$10007.58"
+    },
+    {
+      "id": "Qhxjg514xsWFI6Tm9a8Hqllqxvq1",
+      "base_salary": "$23587.92",
+      "bonus": "$19415.26",
+      "vacation_bonus": "$12801.72",
+      "punctuality_bonus": "$19134.63",
+      "attendance_bonus": "$9610.55",
+      "grocery_vouchers": "$16444.95"
+    }
+  ]
+}
