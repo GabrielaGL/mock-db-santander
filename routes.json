@@ -1,3 +1,7 @@
 {
-    "/personal_info/get/:id": "/personal_info/:id"
+    "/personal_info/get/:id": "/personal_info/:id",
+    "/course_records/get/:id": "/course_records/:id",
+    "/labor_data/get/:id": "/labor_data/:id",
+    "/time_off/get/:id": "/time_off/:id",
+    "/time_off/get/:id/holidays": "/time_off/:id/holidays"
 }
